@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-- [Live Demo Link](https://mstanley-me.github.io/mobileSkeleton/)
+- [Live Demo Link](https://kabika681.github.io/boostrap-pascal-portfolio/)
 
 ## Getting Started
 
