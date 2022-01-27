@@ -1,7 +1,7 @@
 # Bootstrap portfolio design.
 
 This is a desktop version screenshot of the bootstrap portfolio.
-![screenshot](./stanley.png)
+![screenshot](./bst.png)
 
 Additional description about the project and its features.
 
@@ -22,15 +22,15 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Stanley SIMEON**
-
-- GitHub: [https://github.com/mstanley-me]
-- LinkedIn: [https://www.linkedin.com/in/stanley-simeon-881091224/]
-
 👤 **Pascal Kabika**
 
 - GitHub: KABIKA681
 - [LinkedIn](https://www.linkedin.com/in/pascal-kabika-443061220/)
+
+👤 **Stanley SIMEON**
+
+- GitHub: [https://github.com/mstanley-me]
+- LinkedIn: [https://www.linkedin.com/in/stanley-simeon-881091224/]
 
 ## 🤝 Contributing
 
